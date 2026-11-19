@@ -1,0 +1,6 @@
+{
+  "name": "SPIDER SEO MANAGER",
+  "description": "AI-powered YouTube SEO assistant for Minecraft content creators by AzmatSpider.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

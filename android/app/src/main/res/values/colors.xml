@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#080808</color>
+    <color name="colorPrimaryDark">#080808</color>
+    <color name="colorAccent">#FFD700</color>
+    <color name="spiderSurface">#191919</color>
+    <color name="spiderWhite">#FFFFFF</color>
+</resources>
